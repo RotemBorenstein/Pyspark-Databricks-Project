@@ -35,7 +35,3 @@ This repository contains two projects. Each project involves working with **PySp
 - Matplotlib for visualization
 
 
-## License
-
-This project is for educational purposes as part of the **Distributed Database Management** course at the Technion.
-
